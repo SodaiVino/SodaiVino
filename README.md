@@ -1,4 +1,4 @@
-- 👋 Hi there, my name is @SodaiVino !
+### 👋 Hi there, my name is @SodaiVino !
 
 <!---
 SodaiVino/SodaiVino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
